@@ -1,0 +1,22 @@
+{
+  "name": "hotrest",
+  "version": "1.0.0",
+  "description": "A restaurant application that makes reservations",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtg5088/HotResturant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtg5088/HotResturant/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "homepage": "https://github.com/dtg5088/HotResturant#readme"
+}
